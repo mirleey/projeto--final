@@ -14,13 +14,15 @@ O déficit no ingresso de alunos em cursos de exatas é um problema sério, pois
 
 ### Geral
 
-Explorar os indices no ingresso de alunos em cursos de exatas como em Física.
+- Explorar os indices no ingresso de alunos em cursos de exatas como em Física.
 
 ### Específicos
 
-Analisar as médias obtidas por alunos do ensino médio de cada região do Brasil em matemática e suas tecnologias.
-Investigar o número de Instituições de ensino superior em cada região do Brasil.
-Examinar o número de alunos cursando o curso de Física em cada região.
+- Analisar as médias obtidas por alunos do ensino médio de cada região do Brasil em matemática e suas tecnologias.
+  
+- Investigar o número de Instituições de ensino superior em cada região do Brasil.
+
+- Examinar o número de alunos cursando o curso de Física em cada região.
 
 
 
