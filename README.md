@@ -40,5 +40,5 @@ Para realização do projeto será utilizado a linguagem de Python e/ou ambiente
 
 ## Conclusão
 
-Deste modo, podemos concluir assim que além das medidas apresentadas nesta pesquisa, é importante também, investir na educação básica, pois é nessa etapa que os jovens desenvolvem seu interesse pelas áreas de exatas. É preciso garantir que os alunos tenham acesso a um ensino de qualidade em matemática, física, química e outras áreas de exatas. 
+Deste modo, podemos concluir que além das medidas apresentadas nesta pesquisa, é importante também, investir na educação básica, pois é nessa etapa que os jovens desenvolvem seu interesse pelas áreas de exatas. É preciso garantir que os alunos tenham acesso a um ensino de qualidade em matemática, física, química e outras áreas de exatas. 
 Ao investir na educação nas áreas de exatas, o Brasil está investindo no seu futuro.
